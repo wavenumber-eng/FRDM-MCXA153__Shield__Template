@@ -1,0 +1,82 @@
+[Design]
+Version = 1.0
+HeirarchyMode = 0
+CurrentVariant = A
+
+[Document1]
+DocumentPath = FRDM-MCXA153__Shield__Template__TOP_LEVEL__A.SchDoc
+
+[Document2]
+DocumentPath = FRDM-MCXA153__Shield__Template__A.PcbDoc
+
+[Document3]
+DocumentPath = FRDM-MCXA153__Shield__Template__FAB__A.PCBDwf
+
+[Document4]
+DocumentPath = FRDM-MCXA153__Shield__Template__ASSY__A.PCBDwf
+
+[Document5]
+DocumentPath = FRDM-MCXA153__Shield__Template__A.OutJob
+
+[Document6]
+DocumentPath = FRDM-MCXA153__Shield__Template__A.BomDoc
+
+[Document7]
+DocumentPath = BOM_Template.xlsx
+
+[Parameter1]
+Name = CCA_PART_NUMBER
+Value = CCA-10010
+
+[Parameter2]
+Name = CCA_TITLE
+Value = FRDM-MCXA153__Shield__Template
+
+[Parameter3]
+Name = CCA_CODENAME
+Value = FRDM-MCXA153__Shield__Template
+
+[Parameter4]
+Name = CCA_DESCRIPTION
+Value = FRDM-MCXA153__Shield__Template
+
+[Parameter5]
+Name = PCB_PART_NUMBER
+Value = PCB-10010
+
+[Parameter6]
+Name = PCB_MIXDOWN
+Value = A
+
+[Parameter7]
+Name = PCB_DATE
+Value = 2023-12-26
+
+[Parameter8]
+Name = PCB_DESCRIPTION
+Value = FRDM-MCXA153__Shield__Template
+
+[Parameter9]
+Name = PCB_CODENAME
+Value = FRDM-MCXA153__Shield__Template
+
+[Parameter10]
+Name = ENGINEER
+Value = Plexus
+
+[Parameter11]
+Name = STATUS
+Value = PROTOTYPE
+
+[Parameter12]
+Name = SCH_DATE
+Value = 2023-12-26
+
+[ProjectVariant1]
+UniqueID = A7F174E0-F8D2-4749-89EC-4377415EBF47
+Description = A
+AllowFabrication = 1
+ParameterCount = 0
+VariationCount = 0
+ParamVariationCount = 0
+
