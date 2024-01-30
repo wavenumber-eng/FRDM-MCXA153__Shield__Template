@@ -2,7 +2,7 @@
 This repo has been initialized with make_pcb.py
 ## Folder structure 
 ### /tracks
-  Altium source files organized by version
+  Altium & Kicad source files organized by version
 ### /mixdowns
   Staging area for build documentation organized by version.  The target for the outjob
 ### /golden
